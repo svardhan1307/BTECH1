@@ -1,4 +1,4 @@
-"""doctors.py — Doctor records and specialization management."""
+"""doctors.py — Doctor records and speciDSDalization management."""
 
 import mysql.connector as sql
 
